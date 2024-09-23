@@ -74,7 +74,7 @@ public class Inputs {
                     System.out.println("Invalid operation, please try again or enter 'restart all' to restart the entire process or 'restart numbers' to restart number input.");
                 }
             }
-
+//            test
             // If the operator is valid, perform the calculation and print the results
             if (validOperator) {
                 try {
